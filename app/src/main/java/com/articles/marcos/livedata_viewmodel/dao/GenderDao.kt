@@ -1,5 +1,6 @@
 package com.articles.marcos.livedata_viewmodel.dao
 
+import android.arch.lifecycle.MutableLiveData
 import android.arch.persistence.room.*
 import com.articles.marcos.livedata_viewmodel.entity.Gender
 
